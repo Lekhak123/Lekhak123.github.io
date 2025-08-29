@@ -6,59 +6,31 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
+My resume is available for download as a PDF: <a href="{{ '/files/Resume.pdf' | relative_url }}">Download Resume</a>
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, The University of Texas at Arlington, August 2023 - May 2027 (expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Web Developer**, The University of Texas at Arlington (Nov 2023 - Present)
+    * Developed and deployed Flask-based web applications, migrated legacy applications from PHP to Python, and improved search query performance by over 90%.
+    * Managed departmental web applications including the CSE Colloquium, Faculty Candidate Review, GTA Evaluation, Ph.D. Milestone, Ph.D. Annual Review, Room Management, and Tenure and Promotion applications.
+* **Junior Full Stack Developer**, SilverLine System Integrators Pvt. Ltd. (Dec 2022 - Jun 2023)
+    * Spearheaded the development of 5+ full-stack applications using Django and Flask for a fintech startup.
+    * Designed and implemented backend systems, including APIs and authentication mechanisms for point-of-sale devices.
+    * Built responsive front-end interfaces with ReactJS and Next.JS, and managed SQL databases.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming:** Python, JavaScript, TypeScript, Java, SQL, PHP, C
+* **Frameworks/Tools:** Next.js, React, Flask, Django, Node.js, Express, Jinja, Postman
+* **Databases:** MongoDB, SQL, SQLite, Redis
+* **Other Skills:** Full Stack Development, Machine Learning, OpenCV, REST, Automation, GraphQL, Git, Nginx, Linux, Agile Development, Data Scraping
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
