@@ -9,6 +9,6 @@
   @include breakpoint($large) {
     float: right;
     width: calc(100% - 320px);
-    padding-right: $gutter-width;
+    padding-right: 2em; // Replaced the undefined variable
   }
 }
