@@ -1,29 +1,40 @@
 ---
-layout: archive
-title: "About me"
+layout: splash
 permalink: /
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+hidden: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /images/homepage.png
+  actions:
+    - label: "Download Resume"
+      url: "/files/Resume.pdf"
+excerpt: "I am a third-year undergraduate student at The University of Texas at Arlington, where I am pursuing a Bachelor of Science in Computer Science... I am a research assistant at the Arlington Computational Linguistics Lab (ACL2) advised by Dr. Kenny Zhu... My research is in the emerging field of animal language processing, where I work on creating novel datasets and building machine learning models for analyzing canine vocal communication."
+intro:
+  - excerpt: 'Please feel free to browse through my publications and blog posts to get a better understanding of my work.'
+feature_row:
+  - image_path: /images/blog-post-feature.png # Consider creating a relevant image
+    alt: "Blog Posts"
+    title: "Blog Posts"
+    excerpt: "Stay up to date with my latest research and projects."
+    url: "/posts/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /images/image_6a395b.jpg
+    alt: "A dog representing canine vocalization research"
+    title: "Publications"
+    excerpt: "A list of my publications and preprints on animal language processing."
+    url: "/publications/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /images/resume-feature.png # Consider creating a relevant image
+    alt: "Resume"
+    title: "Resume"
+    excerpt: "A summary of my education, experience, and skills."
+    url: "/files/Resume.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
-<style>
-.no-indent {
-  text-indent: 0px;
-}
-</style>
 
-<div class="no-indent">
-I am a junior Computer Science student at the University of Texas at Arlington, specializing in Machine Learning, Natural Language Processing, and full-stack development. My research focuses on animal vocalization and language processing. I have extensive experience in full-stack development, with proficiency in Flask, Django, ReactJS, and Next.JS.
+{% include feature_row id="intro" type="center" %}
 
-## Milestones
-
-* **July 2025:** My paper "A Data-driven Approach to the Longitudinal Study of Canine Vocal Pattern Development" is accepted to ACMMM 2025 Brave New Ideas (BNI) Track!
-* **July 2025:** My paper "DogSpeak: A Canine Vocalization Classification Dataset" is accepted to ACMMM 2025 Datasets Track!
-* **July 2025:** Our paper "Emotional Canines: A Dataset for Analysis of Arousal and Valence in Dog Vocalization", led by Tuan Dang, is accepted to ACMMM 2025 Datasets Track!
-* **February 2025:** Our paper "Toward Automatic Discovery of a Canine Phonetic Alphabet", led by [Theron Wang](https://theronwang.github.io/), is awarded an Outstanding Paper Award in ACL 2025!
-* **November 2023:** Started as a web developer for the CSE department at UTA.
-* **August 2023:** Joined the Arlington Computational Linguistics Lab research group.
-* **August 2023:** Started as a Computer Science student at UT Arlington.
-* **December 2022:** Began working as a Junior Full Stack Developer at SilverLine System Integrators.
-</div>
+{% include feature_row %}
