@@ -2,15 +2,11 @@
   .page__title {
     margin-bottom: 0.5em;
   }
-
-  &.grid__wrapper {
-    @include grid-wrapper;
-  }
 }
 
-// Only apply sidebar-related width calculations when a sidebar exists
+/* This rule fixes the layout for pages with a sidebar */
 .sidebar + .archive {
-  @include su-breakpoint($large) {
+  @include breakpoint($large) {
     float: right;
     width: calc(100% - 320px);
     padding-right: $gutter-width;
