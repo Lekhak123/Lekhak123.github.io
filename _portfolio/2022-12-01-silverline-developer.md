@@ -1,6 +1,6 @@
 ---
-title: "Junior Full Stack Developer at SilverLine System Integrators"
-excerpt: "Spearheaded the development of 5+ full-stack applications using Django and Flask for a fintech startup."
+title: "Junior Full Stack Developer"
+excerpt: "Junior Full Stack Developer at SilverLine System Integrators Pvt. Ltd. Spearheaded the development of 5+ full-stack applications using Django and Flask for the fintech startup."
 collection: portfolio
+date_range: "December 2022 - June 2023"
 ---
-Spearheaded the development of 5+ full-stack applications using Django and Flask for the fintech startup. Designed and implemented backend systems, including APIs and authentication mechanisms for point-of-sale devices. Built responsive front-end interfaces with ReactJS and Next.JS, and managed SQL databases.

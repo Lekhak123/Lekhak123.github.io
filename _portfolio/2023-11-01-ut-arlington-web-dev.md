@@ -1,6 +1,6 @@
 ---
-title: "Web Developer at UT Arlington"
-excerpt: "Developed and deployed Flask-based web applications, migrated legacy applications from PHP to Python, and improved search query performance by over 90%."
+title: "Web Developer"
+excerpt: "Web Developer at The University of Texas at Arlington, responsible for managing departmental web applications. Improved website-wide search query performance by over 90% using a caching mechanism."
 collection: portfolio
+date_range: "June 2023 - Present"
 ---
-Developed and deployed several Flask-based web applications for the Computer Science and Engineering department with SQL databases and Azure hosting. Migrated most of the legacy CSE web applications from PHP to Python. Improved website-wide search query performance by over 90% using a caching mechanism.

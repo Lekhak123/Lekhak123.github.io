@@ -54,11 +54,11 @@
       "summary": "Responsible for managing departmental web applications including the CSE Colloquium, Faculty Candidate Review, GTA Evaluation, Ph.D. Milestone, Ph.D. Annual Review, Room Management, and Tenure and Promotion applications. Improved website-wide search query performance by over 90% using a caching mechanism."
     },
     {
-        "company": "SilverLine System Integrators Pvt. Ltd.",
-        "position": "Junior Full Stack Developer",
-        "startDate": "2022-12-01",
-        "endDate": "2023-06-01",
-        "summary": "Spearheaded the development of 5+ full-stack applications using Django and Flask for the fintech startup. Designed and implemented backend systems, including APIs and authentication mechanisms for point-of-sale devices. Built responsive front-end interfaces with ReactJS and Next.JS, and managed SQL databases. Also responsible for deploying to our cloud servers."
+      "company": "SilverLine System Integrators Pvt. Ltd.",
+      "position": "Junior Full Stack Developer",
+      "startDate": "2022-12-01",
+      "endDate": "2023-06-01",
+      "summary": "Spearheaded the development of 5+ full-stack applications using Django and Flask for the fintech startup. Designed and implemented backend systems, including APIs and authentication mechanisms for point-of-sale devices. Built responsive front-end interfaces with ReactJS and Next.JS, and managed SQL databases. Also responsible for deploying to our cloud servers."
     }
   ],
   "publications": [
@@ -77,18 +77,18 @@
       "summary": ""
     },
     {
-        "name": "Emotional Canines: A Dataset for Analysis of Arousal and Valence in Dog Vocalization",
-        "publisher": "ACM MM 25 (Datasets Track)",
-        "releaseDate": "2025",
-        "website": "",
-        "summary": ""
+      "name": "Emotional Canines: A Dataset for Analysis of Arousal and Valence in Dog Vocalization",
+      "publisher": "ACM MM 25 (Datasets Track)",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": ""
     },
     {
-        "name": "Toward Automatic Discovery of a Canine Phonetic Alphabet",
-        "publisher": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics",
-        "releaseDate": "2025",
-        "website": "https://aclanthology.org/2025.acl-long.451/",
-        "summary": ""
+      "name": "Toward Automatic Discovery of a Canine Phonetic Alphabet",
+      "publisher": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics",
+      "releaseDate": "2025",
+      "website": "https://aclanthology.org/2025.acl-long.451/",
+      "summary": ""
     }
   ],
   "skills": [
@@ -103,14 +103,14 @@
       "keywords": ["Next.js", "React", "Flask", "Django", "Node.js", "Express", "Jinja", "Postman"]
     },
     {
-        "name": "Databases",
-        "level": "",
-        "keywords": ["MongoDB", "SQL", "SQLite", "Redis"]
+      "name": "Databases",
+      "level": "",
+      "keywords": ["MongoDB", "SQL", "SQLite", "Redis"]
     },
     {
-        "name": "Other Skills",
-        "level": "",
-        "keywords": ["Full Stack Development", "Machine Learning", "OpenCV", "REST", "Automation", "GraphQL", "Git", "Nginx", "Linux", "Agile Development", "Data Scraping"]
+      "name": "Other Skills",
+      "level": "",
+      "keywords": ["Full Stack Development", "Machine Learning", "OpenCV", "REST", "Automation", "GraphQL", "Git", "Nginx", "Linux", "Agile Development", "Data Scraping"]
     }
   ],
   "awards": [
