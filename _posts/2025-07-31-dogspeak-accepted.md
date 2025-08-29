@@ -12,4 +12,4 @@ tags:
   - publication
   - ACMMM
 ---
-Our paper **“DogSpeak: A Canine Vocalization Classification Dataset”**, led by Hridayesh Lekhak, is accepted to **ACMMM 2025 Datasets Track**!
+My paper “DogSpeak: A Canine Vocalization Classification Dataset” is accepted to **ACMMM 2025 Datasets Track**!

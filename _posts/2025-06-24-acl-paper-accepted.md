@@ -12,4 +12,4 @@ tags:
   - publication
   - ACL
 ---
-My paper **“Toward Automatic Discovery of a Canine Phonetic Alphabet”** is accepted to **ACL 2025 Main Conference**!
+Our paper “Toward Automatic Discovery of a Canine Phonetic Alphabet”, led by Theron S. Wang, is accepted to **ACL 2025 Main Conference**!

@@ -12,4 +12,4 @@ tags:
   - award
   - ACL
 ---
-Our paper **“Toward Automatic Discovery of a Canine Phonetic Alphabet”** is awarded an **Outstanding Paper Award** in ACL 2025!
+Our paper “Toward Automatic Discovery of a Canine Phonetic Alphabet” has received an Outstanding Paper Award at ACL 2025! A huge congratulations to the first author, Theron S. Wang, and the rest of the team!

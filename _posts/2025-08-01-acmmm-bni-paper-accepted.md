@@ -12,4 +12,4 @@ tags:
   - publication
   - ACMMM
 ---
-Our paper **“A Data-driven Approach to the Longitudinal Study of Canine Vocal Pattern Development”**, led by Hridayesh Lekhak, is accepted to **ACMMM 2025 Brave New Ideas (BNI) Track**!
+My paper “A Data-driven Approach to the Longitudinal Study of Canine Vocal Pattern Development” is accepted to **ACMMM 2025 Brave New Ideas** track!
