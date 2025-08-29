@@ -4,7 +4,7 @@ permalink: /
 author_profile: true
 ---
 
-I am a third-year undergraduate student at The University of Texas at Arlington, where I am pursuing a Bachelor of Science in Computer Science. I am a research assistant at the Arlington Computational Linguistics Lab (ACL2) advised by Dr. Kenny Zhu.
+I am a third-year undergraduate student at The University of Texas at Arlington, where I am pursuing a Bachelor of Science in Computer Science. I am a web developer for the CSE department.
 
 My research is in the emerging field of animal language processing, where I work on creating novel datasets and building machine learning models for analyzing canine vocal communication.
 
